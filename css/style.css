@@ -10,7 +10,7 @@
 }
 .container .item{
 	font-size: 14px;
-    line-height: 3.14286;
+    line-height: 3.148;
     font-weight: 400;
     letter-spacing: -.01em;
     font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -18,10 +18,12 @@
 }
 
 
+
 #navbar >div{
-	justify-self: end;
+	justify-self: safe center;
 	align-self: center;
 }
+
 #navbar a{
 	text-decoration: none;
 	color: #f5f5f7;
